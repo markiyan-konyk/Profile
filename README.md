@@ -45,9 +45,9 @@ I have a proven track record of [key achievement]. My approach combines [your me
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">Servo Motor Driver Board</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
+        <a href="https://github.com/Marki-K/Servo-Driver-for-UTAT" target="_blank">
           <img src="https://via.placeholder.com/500x300" width="400" alt="Project 1">
         </a>
         <p>
