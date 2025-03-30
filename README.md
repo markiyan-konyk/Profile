@@ -41,7 +41,7 @@ My background includes experience in [industry/field], where I've developed expe
         <a href="https://github.com/Marki-K/Servo-Driver-for-UTAT" target="_blank">
         </a>
         <p>
-          <a href="https://github.com/yourusername/project1" target="_blank">
+          <a href="https://github.com/Marki-K/Servo-Driver-for-UTAT" target="_blank">
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
         </p>
