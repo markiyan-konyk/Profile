@@ -1,28 +1,26 @@
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius:50%; border: 3px solid #0366d6;" />
   
-  # [Your Name]
+  # Markiyan Konyk
   
-  <p><em>Professional Title | Industry | Location</em></p>
+  <p><em>Engineering Science student at the University of Toronto</em></p>
 </div>
 
 <div align="center">
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mark.konyk@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/markiyan-konyk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+digital+experiences;Turning+ideas+into+code;Always+learning%2C+always+growing" alt="Typing SVG" />
-</div>
+
 
 ---
 
