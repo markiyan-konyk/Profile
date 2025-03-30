@@ -31,15 +31,6 @@ I'm a [your profession] with [X years] of experience specializing in [your speci
 
 My background includes experience in [industry/field], where I've developed expertise in [key skills]. I'm particularly passionate about [professional passion] and am currently exploring opportunities in [area of interest].
 
-## Professional Experience
-
-I have a proven track record of [key achievement]. My approach combines [your methodology/strengths] with [technical skills] to deliver [outcomes].
-
-**Areas of expertise:**
-- Area 1: Brief description of your capabilities
-- Area 2: Brief description of your capabilities
-- Area 3: Brief description of your capabilities
-
 ## Projects
 
 <table>
@@ -48,17 +39,13 @@ I have a proven track record of [key achievement]. My approach combines [your me
       <h3 align="center">Servo Motor Driver Board</h3>
       <div align="center">
         <a href="https://github.com/Marki-K/Servo-Driver-for-UTAT" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="400" alt="Project 1">
         </a>
         <p>
           <a href="https://github.com/yourusername/project1" target="_blank">
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
-          <a href="https://project1-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00B5E2?style=flat-square&logo=netlify&logoColor=white">
-          </a>
         </p>
-        <p><strong>Technologies Used:</strong> React, Node.js, MongoDB</p>
+        <p><strong>Skills::</strong> Circuit design & Altium Designer</p>
         <p>
           Professional description of the project, its purpose, your role, and key outcomes. Highlight challenges overcome and business impact.
         </p>
@@ -68,7 +55,6 @@ I have a proven track record of [key achievement]. My approach combines [your me
       <h3 align="center">Project 2</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://via.placeholder.com/500x300" width="400" alt="Project 2">
         </a>
         <p>
           <a href="https://github.com/yourusername/project2" target="_blank">
