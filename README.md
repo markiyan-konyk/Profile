@@ -31,6 +31,18 @@ I'm a [your profession] with [X years] of experience specializing in [your speci
 
 My background includes experience in [industry/field], where I've developed expertise in [key skills]. I'm particularly passionate about [professional passion] and am currently exploring opportunities in [area of interest].
 
+## Technical Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-FAA41A?style=for-the-badge&logo=autodesk&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
+
 ## Projects
 
 <table>
@@ -72,18 +84,6 @@ My background includes experience in [industry/field], where I've developed expe
     </td>
   </tr>
 </table>
-
-## Technical Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion%20360-FAA41A?style=for-the-badge&logo=autodesk&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</div>
 
 ## Professional Development
 
