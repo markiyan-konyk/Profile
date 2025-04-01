@@ -26,10 +26,7 @@
 
 ## About Me
 
-I'm a [your profession] with [X years] of experience specializing in [your specialties]. My work focuses on [what you do/solve], helping [target audience/clients] to [achieve what outcome].
-
-
-My background includes experience in [industry/field], where I've developed expertise in [key skills]. I'm particularly passionate about [professional passion] and am currently exploring opportunities in [area of interest].
+I'm an engineering student interested in aerospace, robotics and machine learning.
 
 ## Technical Skills
 
