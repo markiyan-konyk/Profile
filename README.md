@@ -56,21 +56,18 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
         <p><strong>Skills::</strong> Circuit design & Altium Designer</p>
         <p>
-          Professional description of the project, its purpose, your role, and key outcomes. Highlight challenges overcome and business impact.
+          Created a servo motor driver board for my rocketry design team using Altium.
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Seam Carving with C</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
+        <a href="https://github.com/yourusername/seamcarving" target="_blank">
         </a>
         <p>
           <a href="https://github.com/yourusername/project2" target="_blank">
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-          <a href="https://project2-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00B5E2?style=flat-square&logo=netlify&logoColor=white">
           </a>
         </p>
         <p><strong>Technologies Used:</strong> Python, TensorFlow, AWS</p>
@@ -90,10 +87,6 @@ I'm currently focused on expanding my knowledge in:
 - **Area of Learning 2**: Brief description of what you're learning and why
 - **Area of Learning 3**: Brief description of what you're learning and why
 
-## Publications & Speaking
-
-- [Title of Article/Talk](link) - Brief description (Publication/Event, Date)
-- [Title of Article/Talk](link) - Brief description (Publication/Event, Date)
 
 ## GitHub Analytics
 
@@ -104,10 +97,6 @@ I'm currently focused on expanding my knowledge in:
 
 ## Let's Connect
 
-I'm always interested in connecting with fellow professionals for collaboration, mentorship, or just to exchange ideas. Feel free to reach out via [LinkedIn](https://linkedin.com/in/yourusername) or [email](mailto:your.email@example.com).
+I'm always interested in connecting with fellow professionals for collaboration, mentorship, or just to exchange ideas. Feel free to reach out via [LinkedIn](https://linkedin.com/in/markiyan-konyk) or [email](mailto:mark.konyk@gmail.com).
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0366d6&style=flat-square&label=Profile+Views" />
-</div>
