@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius:50%; border: 3px solid #0366d6;" />
-  
   # Markiyan Konyk
   
   <p><em>Engineering Science student at the University of Toronto</em></p>
@@ -81,8 +78,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiyan-konyk&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 ## Let's Connect
