@@ -78,16 +78,6 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
     </td>
   </tr>
 </table>
-
-## Professional Development
-
-I'm currently focused on expanding my knowledge in:
-
-- **Area of Learning 1**: Brief description of what you're learning and why
-- **Area of Learning 2**: Brief description of what you're learning and why
-- **Area of Learning 3**: Brief description of what you're learning and why
-
-
 ## GitHub Analytics
 
 <div align="center">
