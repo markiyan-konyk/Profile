@@ -70,9 +70,9 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>Technologies Used:</strong> Python, TensorFlow, AWS</p>
+        <p><strong>Languages:</strong> C</p>
         <p>
-          Professional description of the project, its purpose, your role, and key outcomes. Highlight challenges overcome and business impact.
+          A program that takes in an image in .bin format and reshapes to a lower width without distorting important features like faces.
         </p>
       </div>
     </td>
