@@ -75,6 +75,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
     </td>
   </tr>
 </table>
+
 ## GitHub Analytics
 
 <div align="center">
