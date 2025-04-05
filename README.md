@@ -104,6 +104,25 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
       </div>
     </td>
+    </tr>
+    <tr>
+      <td width="50%">
+      <h3 align="center">Digit Recognition with Multi Layer Perceptron</h3>
+      <div align="center">
+        <a href="https://github.com/markiyan-konyk/MNIST-Multi-Layer-Perceptron" target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/markiyan-konyk/MNIST-Multi-Layer-Perceptron" target="_blank">
+            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Skills:</strong> Python, PyTorch</p>
+        <p>
+            Implementation of a double layer MLP to recognize digits from the MNIST dataset with Python and Pytorch
+        </p>
+      </div>
+    </td>
+    </tr>
 </table>
 
 ## GitHub Analytics
