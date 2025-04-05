@@ -125,12 +125,6 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
     </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiyan-konyk&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
 ## Let's Connect
 
 I'm always interested in connecting with fellow professionals for collaboration, mentorship, or just to exchange ideas. Feel free to reach out via [LinkedIn](https://linkedin.com/in/markiyan-konyk) or [email](mailto:mark.konyk@gmail.com).
