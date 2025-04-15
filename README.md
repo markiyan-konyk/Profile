@@ -107,7 +107,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
     </tr>
     <tr>
       <td width="50%">
-      <h3 align="center">Digit Recognition with Multi Layer Perceptron</h3>
+      <h3 align="center">Digit Recognition with webcam</h3>
       <div align="center">
         <a href="https://github.com/markiyan-konyk/MNIST-Multi-Layer-Perceptron" target="_blank">
         </a>
