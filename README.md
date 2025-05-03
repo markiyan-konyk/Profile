@@ -118,7 +118,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
         <p><strong>Skills:</strong> Python, PyTorch</p>
         <p>
-            Implementation of a double layer MLP to recognize digits from the MNIST dataset with Python and Pytorch
+            Implementation of CNN trained with MNIST that works with webcam with the opencv library.
         </p>
       </div>
     </td>
