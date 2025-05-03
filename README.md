@@ -64,9 +64,9 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>Skills:</strong> Python, PyTorch</p>
+        <p><strong>Skills:</strong> Python, PyTorch, OpenCV</p>
         <p>
-            Implementation of CNN trained with MNIST that works with webcam with the opencv library.
+            CNN trained on MNIST to recognize handwritten digits using your webcam.
         </p>
       </div>
     </td>
