@@ -105,24 +105,6 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
       </div>
     </td>
     </tr>
-    <tr>
-    <td width="50%">
-      <h3 align="center">Seam Carving with C</h3>
-      <div align="center">
-        <a href="https://github.com/markiyan-konyk/Seam_Carving" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Seam_Carving" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> C</p>
-        <p>
-          A program that takes in an image in .bin format and reshapes to a lower width without distorting important features like faces.
-        </p>
-      </div>
-    </td>
-    </tr>
 </table>
 
 ## Let's Connect
