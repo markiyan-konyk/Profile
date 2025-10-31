@@ -39,6 +39,22 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">RC Plane Easy Controlls</h3>
+      <div align="center">
+        <a href= target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/markiyan-konyk/RC-Plane-Xbox-Controller" target="_blank"> 
+            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Skills:</strong> C++, Arduino, Electronics</p>
+        <p>
+          Program and Arduino code that allows to controle a plane with an xbox controller
+        </p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">Servo Motor Driver Board</h3>
       <div align="center">
         <a href="https://github.com/markiyan-konyk/Servo-Driver-for-UTAT" target="_blank">
@@ -48,13 +64,14 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>Skills::</strong> Circuit design & Altium Designer</p>
+        <p><strong>Skills:</strong> Circuit design & Altium Designer</p>
         <p>
           Created a servo motor driver board for my rocketry design team using Altium.
         </p>
       </div>
     </td>
-    <td width="50%">
+  </tr>
+      <td width="50%">
       <h3 align="center">Digit Recognition with webcam</h3>
       <div align="center">
         <a href="https://github.com/markiyan-konyk/Mnist_Digit_Recognizer_CNN" target="_blank">
@@ -70,9 +87,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
       </div>
     </td>
-  </tr>
-    <tr>
-    <td width="50%">
+      <td width="50%">
       <h3 align="center">Gomoku Game</h3>
       <div align="center">
         <a href="https://github.com/markiyan-konyk/Gomoku-in-Python" target="_blank">
@@ -82,12 +97,15 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
             <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>Skills::</strong> Python</p>
+        <p><strong>Skills:</strong> Python</p>
         <p>
           It's the classical gomoku game where you play against a bot powered by recursion on a board made with tkinter
         </p>
       </div>
     </td>
+  <tr>
+  </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">Seam Carving with C</h3>
       <div align="center">
