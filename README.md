@@ -1,6 +1,6 @@
   # Markiyan Konyk
   
-  <p><em>Engineering Science student at the University of Toronto</em></p>
+  <p><em><center>Engineering Science student at the University of Toronto in the Robotics stream.</em></p>
 </div>
 
 <div align="center">
@@ -13,14 +13,6 @@
 </div>
 
 <br />
-
-
-
----
-
-## About Me
-
-I'm an engineering student interested in aerospace, robotics and machine learning.
 
 ## Technical Skills
 
