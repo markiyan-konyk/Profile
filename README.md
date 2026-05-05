@@ -40,6 +40,22 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">CNN From Scratch (Python and C++)</h3>
+      <div align="center">
+        <a href= target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/markiyan-konyk/Cats-Vs-Dogs-CNN" target="_blank"> 
+            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Skills:</strong> Python, C++, ML</p>
+        <p>
+          Learning exercise where I created an ML pipeline to differentiate dogs from cats, twice, once in Python and once in C++, without using and ML libraries.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">RC Plane Easy Controlls</h3>
       <div align="center">
         <a href= target="_blank">
@@ -55,6 +71,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
       </div>
     </td>
+  </tr>
     <td width="50%">
       <h3 align="center">Servo Motor Driver Board</h3>
       <div align="center">
@@ -71,7 +88,6 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
       </div>
     </td>
-  </tr>
       <td width="50%">
       <h3 align="center">Digit Recognition with webcam</h3>
       <div align="center">
@@ -87,7 +103,10 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
             CNN trained on MNIST to recognize handwritten digits using your webcam.
         </p>
       </div>
-    </td>
+    </td>s
+  <tr>
+  </tr>
+    <tr>
       <td width="50%">
       <h3 align="center">Gomoku Game</h3>
       <div align="center">
@@ -104,10 +123,7 @@ I'm an engineering student interested in aerospace, robotics and machine learnin
         </p>
       </div>
     </td>
-  <tr>
-  </tr>
-    <tr>
-    <td width="50%">
+        <td width="50%">
       <h3 align="center">Seam Carving with C</h3>
       <div align="center">
         <a href="https://github.com/markiyan-konyk/Seam_Carving" target="_blank">
