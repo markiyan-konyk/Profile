@@ -1,157 +1,94 @@
-  # Markiyan Konyk
-  
-  <p><em><center>Engineering Science student at the University of Toronto in the Robotics stream.</em></p>
-</div>
+# Hi, I'm Markiyan 👋
 
-<div align="center">
-  <a href="mailto:mark.konyk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/markiyan-konyk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+Engineering Science student at the University of Toronto, **Robotics stream**, entering my third year. Ukrainian by origin, Spanish by upbringing, currently Canadian by enrollment, so I bring three time zones' worth of opinions to every group project.
 
-<br />
+---
 
-## Technical Skills
+### About me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion%20360-FAA41A?style=for-the-badge&logo=autodesk&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</div>
+I didn't end up in robotics because I'm obsessed with robots. I ended up here because robotics quietly contains all the things I actually love: ML, low-level and embedded work, electrical design, and, when I have to, mechanical design (it deserves some love too). It's also where the agentic AI frontier is starting to land, which is the part I'm betting on next.
 
-## Projects
+Right now I do research at the [**Matter Lab**](https://www.matter.toronto.edu/), where I get to sit at the intersection of AI and scientific research. Long-term, I want to push toward **self-driving labs** more and autonomous experimentation systems that mix agentic AI with real robotic hardware. Before this, I was on **UTAT (Rocketry)** designing electronics and on a **UTMIST** project building ML tools for post-stroke patient recovery.
+
+Outside of all this, I lift, play violin and guitar, read, and try to learn a new language whenever life lets me.
+
+I'm currently looking for **internsips and co-ops**, if you're hiring or just want to chat, my inbox is open.
+
+---
+
+### What I'm working on
+
+- 🔬 AI and automation research at the Matter Lab
+- 🤖 Going deeper on **agentic AI** and how to bolt it onto real robotic systems
+- 🧠 Reading papers on self-driving labs and trying not to feel behind
+
+---
+
+### Tech I actually use
+
+**Languages:** Python · C++ · C
+**ML & AI:** PyTorch · LangGraph · OpenCV
+**Embedded & Tools:** Arduino · Linux · Git
+**Picking up:** more agentic frameworks, CUDA, ROS2
+
+---
+
+### Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Smart Email Agent (Python)</h3>
-      <div align="center">
-        <a href= target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/contact_archive_agent.git" target="_blank"> 
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> Python, Langgraph, Agentic AI</p>
-        <p>
-          Email agent made for smarter email writing by parsing and organizing emails into contacts and using RAG for the writing.
-        </p>
-      </div>
+    <td width="50%" valign="top">
+      <h4>🤖 Smart Email Agent</h4>
+      <p><em>Python · LangGraph · Agentic AI · RAG</em></p>
+      <p>An email agent that parses and organizes correspondence into contacts, then uses RAG to help draft smarter replies. My first real dive into agentic workflows.</p>
+      <a href="https://github.com/markiyan-konyk/contact_archive_agent"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%">
-      <h3 align="center">CNN From Scratch (Python and C++)</h3>
-      <div align="center">
-        <a href= target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Cats-Vs-Dogs-CNN" target="_blank"> 
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> Python, C++, ML</p>
-        <p>
-          Learning exercise where I created an ML pipeline to differentiate dogs from cats, twice, once in Python and once in C++, without using and ML libraries.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">RC Plane Easy Controlls</h3>
-      <div align="center">
-        <a href= target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/RC-Plane-Xbox-Controller" target="_blank"> 
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> C++, Arduino, Electronics</p>
-        <p>
-          Program and Arduino code that allows to controle a plane with an xbox controller
-        </p>
-      </div>
+    <td width="50%" valign="top">
+      <h4>🐱 CNN From Scratch — Cats vs Dogs</h4>
+      <p><em>Python · C++ · ML</em></p>
+      <p>Built the same image classifier twice — once in Python, once in C++ — with zero ML libraries. Pure backprop, pure suffering, pure understanding.</p>
+      <a href="https://github.com/markiyan-konyk/Cats-Vs-Dogs-CNN"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
-    <td width="50%">
-      <h3 align="center">Servo Motor Driver Board</h3>
-      <div align="center">
-        <a href="https://github.com/markiyan-konyk/Servo-Driver-for-UTAT" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Servo-Driver-for-UTAT" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> Circuit design & Altium Designer</p>
-        <p>
-          Created a servo motor driver board for my rocketry design team using Altium.
-        </p>
-      </div>
-    </td>
-      <td width="50%">
-      <h3 align="center">Digit Recognition with webcam</h3>
-      <div align="center">
-        <a href="https://github.com/markiyan-konyk/Mnist_Digit_Recognizer_CNN" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Mnist_Digit_Recognizer_CNN" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> Python, PyTorch, OpenCV</p>
-        <p>
-            CNN trained on MNIST to recognize handwritten digits using your webcam.
-        </p>
-      </div>
-    </td>s
   <tr>
+    <td width="50%" valign="top">
+      <h4>✍️ Webcam Digit Recognizer</h4>
+      <p><em>Python · PyTorch · OpenCV</em></p>
+      <p>A CNN trained on MNIST that recognizes handwritten digits live through your webcam. Surprisingly satisfying to point a camera at a napkin and watch it work.</p>
+      <a href="https://github.com/markiyan-konyk/Mnist_Digit_Recognizer_CNN"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖼️ Seam Carving</h4>
+      <p><em>C</em></p>
+      <p>Content-aware image resizing in C — takes a <code>.bin</code> image and shrinks its width without squishing the important bits, like faces.</p>
+      <a href="https://github.com/markiyan-konyk/Seam_Carving"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
-    <tr>
-      <td width="50%">
-      <h3 align="center">Gomoku Game</h3>
-      <div align="center">
-        <a href="https://github.com/markiyan-konyk/Gomoku-in-Python" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Gomoku-in-Python" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> Python</p>
-        <p>
-          It's the classical gomoku game where you play against a bot powered by recursion on a board made with tkinter
-        </p>
-      </div>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Servo Motor Driver Board</h4>
+      <p><em>Altium Designer · Circuit Design</em></p>
+      <p>Designed a custom servo motor driver PCB for UTAT's rocketry division. My favourite "but does it work?" moment of the year.</p>
+      <a href="https://github.com/markiyan-konyk/Servo-Driver-for-UTAT"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
-        <td width="50%">
-      <h3 align="center">Seam Carving with C</h3>
-      <div align="center">
-        <a href="https://github.com/markiyan-konyk/Seam_Carving" target="_blank">
-        </a>
-        <p>
-          <a href="https://github.com/markiyan-konyk/Seam_Carving" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p><strong>Skills:</strong> C</p>
-        <p>
-          A program that takes in an image in .bin format and reshapes to a lower width without distorting important features like faces.
-        </p>
-      </div>
+    <td width="50%" valign="top">
+      <h4>🎮 RC Plane Xbox Controller</h4>
+      <p><em>C++ · Arduino · Electronics</em></p>
+      <p>Lets you fly an RC plane with an Xbox controller instead of a traditional transmitter. Because the controls should be the easy part.</p>
+      <a href="https://github.com/markiyan-konyk/RC-Plane-Xbox-Controller"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
-    </tr>
+  </tr>
 </table>
 
-## Let's Connect
-
-I'm always interested in connecting with fellow professionals for collaboration, mentorship, or just to exchange ideas. Feel free to reach out via [LinkedIn](https://linkedin.com/in/markiyan-konyk) or [email](mailto:mark.konyk@gmail.com).
-
 ---
+
+### Let's talk
+
+Open to internships, research collabs, or just chatting about robotics, agentic AI, or which Fitzgerald novel is actually the best (it's *Tender Is the Night*, fight me, although *The Great Gatsby* is there too).
+
+<a href="mailto:mark.konyk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/markiyan-konyk">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
