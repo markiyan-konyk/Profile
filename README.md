@@ -32,6 +32,22 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Smart Email Agent (Python)</h3>
+      <div align="center">
+        <a href= target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/markiyan-konyk/contact_archive_agent.git" target="_blank"> 
+            <img src="https://img.shields.io/badge/Code-0366d6?style=flat-square&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Skills:</strong> Python, Langgraph, Agentic AI</p>
+        <p>
+          Email agent made for smarter email writing by parsing and organizing emails into contacts and using RAG for the writing.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">CNN From Scratch (Python and C++)</h3>
       <div align="center">
         <a href= target="_blank">
