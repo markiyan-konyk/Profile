@@ -36,7 +36,7 @@ Outside of all this, I lift, play violin and guitar, read, and try to learn a ne
 <table>
   <tr>
       <td width="50%" valign="top">
-      <h4> IBM-Q Optimization and Submission agent</h4>
+      <h4>⚛️ IBM-Q Optimization and Submission agent</h4>
       <p><em>Python · LangGraph · Agentic AI · APIs </em></p>
       <p>User version Agent that allows configuratin optimization through search and simulations to submit noise efficient jobs to your IBM account</p>
       <a href="https://github.com/markiyan-konyk/QPU_Agent"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
