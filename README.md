@@ -1,6 +1,6 @@
 # Hi, I'm Markiyan 👋
 
-Engineering Science student at the University of Toronto, **Robotics stream**, entering my third year. Ukrainian by origin, Spanish by upbringing, currently Canadian by enrollment, so I bring three time zones' worth of opinions to every group project.
+Engineering Science student at the University of Toronto, **Robotics stream**, entering my third year. Ukrainian by origin, Spanish by upbringing, currently Canadian by enrollment.
 
 ---
 
@@ -11,8 +11,6 @@ I didn't end up in robotics because I'm obsessed with robots. I ended up here be
 Right now I do research at the [**Matter Lab**](https://www.matter.toronto.edu/), where I get to sit at the intersection of AI and scientific research. Long-term, I want to push toward **self-driving labs** more and autonomous experimentation systems that mix agentic AI with real robotic hardware. Before this, I was on **UTAT (Rocketry)** designing electronics and on a **UTMIST** project building ML tools for post-stroke patient recovery.
 
 Outside of all this, I lift, play violin and guitar, read, and try to learn a new language whenever life lets me.
-
-I'm currently looking for **internsips and co-ops**, if you're hiring or just want to chat, my inbox is open.
 
 ---
 
@@ -37,6 +35,13 @@ I'm currently looking for **internsips and co-ops**, if you're hiring or just wa
 
 <table>
   <tr>
+      <td width="50%" valign="top">
+      <h4> IBM-Q Optimization and Submission agent</h4>
+      <p><em>Python · LangGraph · Agentic AI · APIs </em></p>
+      <p>User version Agent that allows configuratin optimization through search and simulations to submit noise efficient jobs to your IBM account</p>
+      <a href="https://github.com/markiyan-konyk/QPU_Agent"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
     <td width="50%" valign="top">
       <h4>🤖 Smart Email Agent</h4>
       <p><em>Python · LangGraph · Agentic AI · RAG</em></p>
