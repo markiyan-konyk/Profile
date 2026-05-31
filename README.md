@@ -89,7 +89,7 @@ Outside of all this, I lift, play violin and guitar, read, and try to learn a ne
 
 ### Let's talk
 
-Open to internships, research collabs, or just chatting about robotics, agentic AI, or which Fitzgerald novel is actually the best (it's *Tender Is the Night*, fight me, although *The Great Gatsby* is there too).
+Open to internships, research collabs, or just chatting about robotics, agentic AI, or which Fitzgerald novel is actually the best (it's *Tender Is the Night*, fight me, although *The Great Gatsby* is more relatable in nowadays culture).
 
 <a href="mailto:mark.konyk@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
