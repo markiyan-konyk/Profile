@@ -35,7 +35,7 @@ Outside of all this, I lift, play violin and guitar, read, and try to learn a ne
 
 <table>
   <tr>
-      <td width="50%" valign="top">
+      <td style="text-align: center;" width="50%" valign="top">
       <h4>⚛️ IBM-Q Optimization and Submission agent</h4>
       <p><em>Python · LangGraph · Agentic AI · APIs </em></p>
       <p>User version Agent that finds optimal configuration to run circuits in IBM quantum computers through local simulations and agentic search.</p>
